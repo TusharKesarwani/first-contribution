@@ -157,6 +157,7 @@ These are the list of first time contributors :raised_hands:
 ## Wield the Web 2022:
 # First time Contributors 
 -   ### **A** <br>
+       [ASHISH KUMAR SINMGH](https://github.com/Ashish7103)
 -   ### **B** <br>
 -   ### **C** <br>
 -   ### **D** <br>
@@ -169,6 +170,7 @@ These are the list of first time contributors :raised_hands:
 -   ### **K** <br>
      -   [KUSHAGRA SHUKLA](https://github.com/SHUKLA-KUSHAGRA)
 -   ### **L** <br>
+         
 -   ### **M** <br>
      -   [Maria Khan](https://github.com/missusk)
 -   ### **N** <br>
