@@ -158,6 +158,7 @@ These are the list of first time contributors :raised_hands:
 # First time Contributors 
 -   ### **A** <br>
        [ASHISH KUMAR SINMGH](https://github.com/Ashish7103)
+       [Atul Kumar](https://github.com/atul1510)
 -   ### **B** <br>
 -   ### **C** <br>
 -   ### **D** <br>
