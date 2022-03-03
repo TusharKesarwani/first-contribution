@@ -159,7 +159,7 @@ These are the list of first time contributors :raised_hands:
 -   ### **A** <br>
     -   [ASHISH KUMAR SINMGH](https://github.com/Ashish7103)
     -   [Atul Kumar](https://github.com/atul1510)
-    -  [Ankit Verma](https://github.com/ankit1111verma)
+    -   [Ankit Verma](https://github.com/ankit1111verma)
 -   ### **B** <br>
 -   ### **C** <br>
 -   ### **D** <br>
@@ -181,7 +181,7 @@ These are the list of first time contributors :raised_hands:
 -   ### **P** <br>
 -   ### **Q** <br>
 -   ### **R** <br>
-[Raj Deep](https://github.com/Rajdeep9519)
+     -   [Raj Deep](https://github.com/Rajdeep9519)
 -   ### **S** <br>
     -   [Sophiya Singh](https://github.com/sophiya02)
 -   ### **T** <br>
