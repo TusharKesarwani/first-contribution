@@ -157,8 +157,8 @@ These are the list of first time contributors :raised_hands:
 ## Wield the Web 2022:
 # First time Contributors 
 -   ### **A** <br>
-       [ASHISH KUMAR SINMGH](https://github.com/Ashish7103)
-       [Atul Kumar](https://github.com/atul1510)
+    -   [ASHISH KUMAR SINMGH](https://github.com/Ashish7103)
+    -   [Atul Kumar](https://github.com/atul1510)
     -  [Ankit Verma](https://github.com/ankit1111verma)
 -   ### **B** <br>
 -   ### **C** <br>
